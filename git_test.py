@@ -1,2 +1,5 @@
-print('test')
+
 print('haha')
+print(hello")
+
+chinese
